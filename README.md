@@ -1,11 +1,11 @@
-### Hi 👋, I'm [Smile!](https://smilep.github.io)
+### Hi 👋, I am [Smile!](https://smilep.github.io)
 
 - 🔭 I’m currently working on projects using Java, Spring-Boot, Angular
 - 🌱 I’m currently learning React & Rust
 - 💬 Ask me about anything [here](https://github.com/smilep/smilep/issues)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=smilep&theme=default&show_icons=true&count_private=true)
+[![Smile's Github stats](https://github-readme-stats.vercel.app/api?username=smilep&theme=default&show_icons=true&count_private=true)](https://smilep.github.io)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=smilep&layout=compact)
+[![Smile's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=smilep&layout=compact)](https://smilep.github.io)
 
 *NOTE: My GitHub profile is only for side-projects and open-source contributions. My work contributions are in employer's private repos.*
