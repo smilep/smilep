@@ -9,4 +9,4 @@
 
 [![Smile's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=smilep&layout=compact)](https://smilep.github.io)
 
-*NOTE: My GitHub profile is only for side-projects and open-source contributions. My work contributions are in employer's private repos.*
+*NOTE: My GitHub profile is only for side-projects and open-source contributions. My work contributions are in employer's in-house repos.*
