@@ -1,6 +1,6 @@
 ### Hi 👋, I am [Smile!](https://smilep.github.io)
 
-- 🔭 I’m currently working on projects using Java, Spring-Boot, Angular
+- 🔭 I’m currently working on projects using Java, Spring-Boot, AWS Cloud
 - 🌱 I’m currently learning React & Rust
 - 💬 Ask me about anything [here](https://github.com/smilep/smilep/issues)
 - 📧 smile.is.my.name [at] gmail [dot] com
